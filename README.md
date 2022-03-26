@@ -1,15 +1,9 @@
-## ===== **NOTE** =====
+## NOTE
 This project has been forked in order to speed up development.
 
-This kernel will purely be an experimental sandbox for modern technologies such as USB or virtualization (Intel VT-d/x, AMD IOMMU, etc)
+This kernel exists as a template to any other project within this organization to help us focus at the goal at hand instead of rewriting generic os concepts.
 
-**Integrated features:**
-- None
-
-**Planned features:**
-- Unknown
-
-The rest of this README below starting with the logo is here to credit the original author of this kernel, but it does not apply to this project!
+## END NOTE
 
 ![alt text](slate.png "slate")
 
