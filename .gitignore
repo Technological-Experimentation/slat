@@ -10,3 +10,5 @@ dump.log
 sys/symlist.gen
 slate_image
 build/
+tmp/
+stale.img

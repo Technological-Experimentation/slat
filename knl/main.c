@@ -71,6 +71,8 @@ void kmain(struct stivale2_struct* info) {
 
     printf("Built %s %s\n\n", __DATE__, __TIME__);
 
+	while (1) {
     asm volatile("cli\n\t"
                  "hlt\n\t");
+	}
 }
